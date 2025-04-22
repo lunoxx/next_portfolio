@@ -13,6 +13,7 @@
   "dependencies": {
     "@contentful/rich-text-html-renderer": "^17.0.0",
     "@mailchimp/mailchimp_marketing": "^3.0.80",
+    "@vercel/analytics": "^1.5.0",
     "concurrently": "^7.6.0",
     "contentful": "^9.3.0",
     "dotenv": "^16.0.3",
