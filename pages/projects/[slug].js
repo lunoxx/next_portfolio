@@ -8,6 +8,11 @@ import Layout from '../../components/Layout';
 import Footer from '../../components/Footer';
 import Link from 'next/link';
 
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faEye } from '@fortawesome/free-solid-svg-icons';
+import { faClock } from '@fortawesome/free-solid-svg-icons';
+
+
 export async function getStaticPaths() {
   const client = createClient({
     accessToken: process.env.CONTENTFUL_TOKEN,
@@ -87,8 +92,8 @@ export default function Project({ item, constants }) {
             
             { item.hasPreview && (
             <Link href={`../preview/${item.slug}`} className="flex items-center justify-center sm:justify-start text-gray-200 mt-3 sm:mt-0">
-              <div className="bg-slate-700 w-12 h-12 flex items-center justify-center">
-                <i className="fa-regular fa-clock text-xl"></i>
+              <div className="bg-slate-700 w-12 h-12 flex items-center justify-center text-white">
+                <FontAwesomeIcon icon={faEye} className='text-xl'/>
               </div>
 
               <div className="h-full bg-slate-800 px-3">
@@ -104,7 +109,7 @@ export default function Project({ item, constants }) {
                 <p>{item.createdAt}</p>
               </div>
               <div className="bg-slate-700 w-12 h-12 flex items-center justify-center">
-                <i className="fa-regular fa-clock text-xl"></i>
+              <FontAwesomeIcon icon={faClock} className='text-xl'/>
               </div>
             </div>
           </div>
