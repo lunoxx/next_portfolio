@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklanding_page=self.webpackChunklanding_page||[]).push([[45],{45:function(e,n,t){t.r(n),t.d(n,{default:function(){return i}});t(791),t(224);var s=t(184);function i(){return(0,s.jsxs)("div",{className:"flex h-24 justify-center items-end text-center text-white font-bold",children:["Build with ",(0,s.jsx)("span",{className:"text-red-500 mx-1",children:" \u2764 "})," by ","Win Boosters"]})}}}]);
+//# sourceMappingURL=45.77591e9a.chunk.js.map

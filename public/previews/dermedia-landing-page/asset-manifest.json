@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "./static/css/main.b3d1480c.css",
+    "main.js": "./static/js/main.bf68bf22.js",
+    "static/media/macbook16.svg": "./static/media/macbook16.b428f65043582924e22db18cb14ee557.svg",
+    "static/media/about.png": "./static/media/about.48f5d0411a88575fce7a.png",
+    "static/media/img.png": "./static/media/img.6d33929ec2bc1cf01f9e.png",
+    "static/media/bg.svg": "./static/media/bg.893558f0a9322cef649f.svg",
+    "index.html": "./index.html",
+    "main.b3d1480c.css.map": "./static/css/main.b3d1480c.css.map",
+    "main.bf68bf22.js.map": "./static/js/main.bf68bf22.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3d1480c.css",
+    "static/js/main.bf68bf22.js"
+  ]
+}

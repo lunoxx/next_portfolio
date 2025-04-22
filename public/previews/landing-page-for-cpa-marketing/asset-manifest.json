@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "./static/css/main.695519c3.css",
+    "main.js": "./static/js/main.ec934c0d.js",
+    "static/js/81.eec54177.chunk.js": "./static/js/81.eec54177.chunk.js",
+    "static/js/45.77591e9a.chunk.js": "./static/js/45.77591e9a.chunk.js",
+    "static/js/39.ac6577eb.chunk.js": "./static/js/39.ac6577eb.chunk.js",
+    "static/js/467.f07d9eeb.chunk.js": "./static/js/467.f07d9eeb.chunk.js",
+    "static/js/34.58d42a3b.chunk.js": "./static/js/34.58d42a3b.chunk.js",
+    "static/js/787.6606bfd5.chunk.js": "./static/js/787.6606bfd5.chunk.js",
+    "static/js/667.5d227ded.chunk.js": "./static/js/667.5d227ded.chunk.js",
+    "static/js/128.3326b8bd.chunk.js": "./static/js/128.3326b8bd.chunk.js",
+    "static/media/hero.png": "./static/media/hero.259fc4e0ce35120d1c63.png",
+    "static/media/about.webp": "./static/media/about.493617ab6bbe6940c64b.webp",
+    "static/media/netflix.webp": "./static/media/netflix.f40dc526b45f62128937.webp",
+    "static/media/iphone14.png": "./static/media/iphone14.f2bc8c8428f50db2512b.png",
+    "static/media/13pro.webp": "./static/media/13pro.074bdd08e39515e0fcc5.webp",
+    "static/media/sunset.webp": "./static/media/sunset.330ac417c663b2ae3539.webp",
+    "index.html": "./index.html",
+    "main.695519c3.css.map": "./static/css/main.695519c3.css.map",
+    "main.ec934c0d.js.map": "./static/js/main.ec934c0d.js.map",
+    "81.eec54177.chunk.js.map": "./static/js/81.eec54177.chunk.js.map",
+    "45.77591e9a.chunk.js.map": "./static/js/45.77591e9a.chunk.js.map",
+    "39.ac6577eb.chunk.js.map": "./static/js/39.ac6577eb.chunk.js.map",
+    "467.f07d9eeb.chunk.js.map": "./static/js/467.f07d9eeb.chunk.js.map",
+    "34.58d42a3b.chunk.js.map": "./static/js/34.58d42a3b.chunk.js.map",
+    "787.6606bfd5.chunk.js.map": "./static/js/787.6606bfd5.chunk.js.map",
+    "667.5d227ded.chunk.js.map": "./static/js/667.5d227ded.chunk.js.map",
+    "128.3326b8bd.chunk.js.map": "./static/js/128.3326b8bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.695519c3.css",
+    "static/js/main.ec934c0d.js"
+  ]
+}
